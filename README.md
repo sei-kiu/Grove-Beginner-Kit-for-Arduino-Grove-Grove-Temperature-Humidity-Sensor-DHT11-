@@ -8,4 +8,4 @@ Libraries used
 
 Grove Beginner Kit for Arduino
 
-This example shows how to get data from the DHT11 sensor
+This example shows how to get data from the DHT11 sensor and display on the serial port.
